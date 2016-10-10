@@ -1,4 +1,4 @@
-Cyber Power Ups Nodejs Data Logger Csv
+CyberPowerSystems - Power Panel Ups - Nodejs Csv DataLogger
 --------------------
 install powerpanel:
 ----------------
