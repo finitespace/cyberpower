@@ -1,8 +1,8 @@
 var json2csv = require('json2csv');
 var fs = require('fs');
-
 var spawn = require('child_process').spawn;
 
+var POLL_RATE = 30 * 1000;
 
 function pollUps()
 {
@@ -32,7 +32,7 @@ child.stdout.on('data', function(chunk) {
 });
 
 
-  setTimeout(pollUps, 30*1000);
+  setTimeout(pollUps, POLL_RATE);
 }
 
 function processOutput(data)
