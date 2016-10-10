@@ -1,4 +1,4 @@
-CyberPowerSystems - Power Panel Ups - Nodejs Csv DataLogger
+CyberPowerSystems -  Ups - Nodejs - Csv - DataLogger
 --------------------
 install powerpanel:
 ----------------
