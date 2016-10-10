@@ -1,5 +1,8 @@
 CyberPowerSystems -  Ups - Nodejs - Csv - DataLogger
 --------------------
+
+works with https://www.cyberpowersystems.com/products
+
 install powerpanel:
 ----------------
    dpkg -i powerpanel_132_amd64.deb
