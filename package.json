@@ -1,0 +1,14 @@
+{
+  "name": "cyberpower",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodejs ."
+  },
+  "author": "Tyler Glenn",
+  "license": "GPL",
+  "dependencies": {
+    "json2csv": "^3.7.0"
+  }
+}
