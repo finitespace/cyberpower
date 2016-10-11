@@ -9,8 +9,7 @@ install powerpanel:
 
 test pwrstat:
 ----------------
-   which pwrstat;
-   pwrstat -status;
+   which pwrstat && pwrstat -status;
 
 install:
 ----------------
