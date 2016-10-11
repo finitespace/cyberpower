@@ -10,7 +10,7 @@
   "license": "GPL",
   "dependencies": {
     "json2csv": "^3.7.0"
-  }
+  },
   "repository" :
   { "type" : "git"
   , "url" : "https://github.com/finitespace/cyberpower.git"
